@@ -2,4 +2,4 @@
 
 it's just a repository I like to dump my codes about bitcoin blockchain network
 
-merger method get to dates and returns bitcoine block data provided by https://blockchair.com/ between given tow dates.
+merger method gets to dates and returns bitcoine block data provided by https://blockchair.com/ between given tow dates.
